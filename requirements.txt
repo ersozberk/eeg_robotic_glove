@@ -1,0 +1,12 @@
+Python 3.x
+Arduino IDE
+Gerekli Python kütüphaneleri (requirements.txt dosyasına bakın)
+
+Donanım Gereksinimleri
+----------------------
+NeuroSky MindWave Bluetooth cihazı
+Arduino Uno
+Bluetooth Modülü (HC-05 veya HC-06)
+Pompa Mekanizması (Hava pompası ve solenoid valfler)
+Hava Kabloları ve Eldiven
+Bağlantı Kabloları
