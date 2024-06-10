@@ -1,5 +1,5 @@
 # EEG Kontrollü El Hareket Sistemi
-
+![Proje Logosu](https://raw.githubusercontent.com/ersozberk/eeg_robotic_glove/main/eeg.png)
 Bu proje, sağ eli felçli hastaların EEG (Elektroensefalografi) beyin dinleme cihazı yardımıyla beyin sinyallerini okuyarak ellerini kontrol etmelerine olanak tanıyan yenilikçi bir sistemdir. 
 
 ## Sistem Bileşenleri
